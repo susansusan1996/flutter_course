@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "第一章：午夜的密室訊息",
+    "description": "一個深夜，豪宅中發生了神秘事件。密室中留下了奇怪的訊息...",
+    "imageUrl": "assets/images/case1.png"
+  },
+  {
+    "id": 2,
+    "title": "第二章：消失的證據",
+    "description": "關鍵證據離奇消失，案情變得更加撲朔迷離...",
+    "imageUrl": "assets/images/case2.png"
+  },
+  {
+    "id": 3,
+    "title": "第三章：嫌疑人的秘密",
+    "description": "每個嫌疑人都隱藏著不為人知的秘密...",
+    "imageUrl": "assets/images/case3.png"
+  },
+  {
+    "id": 4,
+    "title": "第四章：真相大白",
+    "description": "所有線索指向一個驚人的真相...",
+    "imageUrl": "assets/images/case4.png"
+  }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "id": "clue_1",
+        "chapterId": 1,
+        "title": "破碎的玻璃杯",
+        "description": "在現場發現的破碎玻璃杯，上面有指紋痕跡。",
+        "imageUrl": "assets/images/clue1.png",
+        "time": "23:45",
+        "credibility": "高",
+        "isUnlocked": true
+    },
+    {
+        "id": "clue_2",
+        "chapterId": 1,
+        "title": "神秘的字條",
+        "description": "密室中發現的字條，上面寫著「午夜見」。",
+        "imageUrl": "assets/images/clue2.png",
+        "time": "00:00",
+        "credibility": "中",
+        "isUnlocked": false
+    },
+    {
+        "id": "clue_3",
+        "chapterId": 1,
+        "title": "監視器畫面",
+        "description": "走廊監視器拍到的可疑人影。",
+        "imageUrl": "assets/images/clue3.png",
+        "time": "23:30",
+        "credibility": "高",
+        "isUnlocked": false
+    },
+    {
+        "id": "clue_4",
+        "chapterId": 2,
+        "title": "消失的鑰匙",
+        "description": "原本應該在桌上的鑰匙不見了。",
+        "imageUrl": "assets/images/clue4.png",
+        "time": "08:00",
+        "credibility": "高",
+        "isUnlocked": false
+    },
+    {
+        "id": "clue_5",
+        "chapterId": 2,
+        "title": "可疑的腳印",
+        "description": "花園中發現的新鮮腳印。",
+        "imageUrl": "assets/images/clue5.png",
+        "time": "07:30",
+        "credibility": "中",
+        "isUnlocked": false
+    }
+]

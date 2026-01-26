@@ -1,0 +1,29 @@
+[
+    {
+        "id": "suspect_1",
+        "name": "張先生",
+        "age": 35,
+        "occupation": "商人",
+        "alibi": "聲稱案發時在辦公室加班",
+        "imageUrl": "assets/images/suspect1.png",
+        "gender": "男"
+    },
+    {
+        "id": "suspect_2",
+        "name": "李先生",
+        "age": 42,
+        "occupation": "律師",
+        "alibi": "聲稱案發時在家休息",
+        "imageUrl": "assets/images/suspect2.png",
+        "gender": "男"
+    },
+    {
+        "id": "suspect_3",
+        "name": "王小姐",
+        "age": 28,
+        "occupation": "秘書",
+        "alibi": "聲稱案發時在朋友家",
+        "imageUrl": "assets/images/suspect3.png",
+        "gender": "女"
+    }
+]
