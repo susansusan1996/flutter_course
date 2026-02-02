@@ -1,13 +1,7 @@
 import 'package:flutter/material.dart';
-import 'services/game_state_service.dart';
 import 'pages/home_page.dart';
 
-void main() async {
-  WidgetsFlutterBinding.ensureInitialized();
-  
-  // Load game data
-  await GameStateService().loadGameData();
-  
+void main() {
   runApp(const MyApp());
 }
 
